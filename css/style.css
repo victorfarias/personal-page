@@ -379,7 +379,7 @@ img {
 
 .grid2 {
 	text-align: center;
-	padding: 50px 0px;
+	padding: 0px 0px;
 }
 
 /* .grid2 ul {
@@ -392,7 +392,7 @@ img {
 	height: 145px;  
 	width: 200px;
 	padding: 15px 0px 0px 0px;
-	margin: 0px 3px;
+	margin: 15px 10px;
 }
 
 .grid2 ul li .img-container {
@@ -434,6 +434,32 @@ img {
 
 .grid2 ul li a:hover span {
 	color: #665cbe;
+}
+
+/* affiliation */
+
+.affiliation{
+	background: #F5F5F5;
+	padding: 50px 0px;
+	text-align: center;	
+}
+
+.affiliation h3 {
+	font-family: 'gandhi_sansregular';
+	color: #2A323A;
+	font-size: 2.3em;
+	padding-bottom: 1px;
+	border-bottom: 1px solid rgba(192, 192, 192, 0.44);
+}
+
+.affiliation a{
+	display: inline-block;
+	margin: 15px;
+}
+
+.affiliation a img{
+	max-width:300px; 
+	max-height:150px;
 }
 
 
